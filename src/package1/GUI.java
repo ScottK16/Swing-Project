@@ -245,36 +245,3 @@ public static void main(String [] args) {
 }
 }
 }
-
-
-
-
-
-	
-
-		
-	
-	
-	
-
-	
-
-	
-	
-
-
-	
-//button2.addActionListener(new ActionListener() {
-//public void actionPerformed(ActionEvent arg0) {
-//text.setText(" ");	
-//text2.setText(" ");
-
-	
-
-
-
-
-	
-
-
-
